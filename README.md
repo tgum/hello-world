@@ -15,6 +15,7 @@ this is some text
 	__ you can also use undescores __
  ```
 result:
+
 **this is bold text**
 __you can also use underscores__
 
@@ -26,6 +27,7 @@ __you can also use underscores__
 ```
 
 result:
+
 *this is italic text*
 _you can also use underscores like for bold text_
 
@@ -80,6 +82,7 @@ result:
 ```
 
 result:
+
 [a link to github](https://github.com)
 
 ### lists
@@ -94,6 +97,7 @@ result:
 ```
 
 result:
+
 - an
 - unordered
 - list
@@ -108,6 +112,7 @@ result:
 ```
 
 result:
+
 > this is a quote
 
 ### srikethrough
@@ -117,4 +122,5 @@ result:
 ```
 
 result:
+
 ~~this text is strikedthrough~~

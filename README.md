@@ -12,7 +12,7 @@ this is some text
 
  ```markdown
 	**this is bold text**
-	__ you can also use undescores __
+	__you can also use undescores__
  ```
 result:
 

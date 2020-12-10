@@ -16,8 +16,8 @@ this is some text
  ```
 result:
 
-**this is bold text**
-__you can also use underscores__
+**this is bold text**     
+__you can also use underscores__     
 
 ### italic text
 
@@ -28,8 +28,8 @@ __you can also use underscores__
 
 result:
 
-*this is italic text*
-_you can also use underscores like for bold text_
+*this is italic text*     
+_you can also use underscores like for bold text_     
 
 ### headers
 
